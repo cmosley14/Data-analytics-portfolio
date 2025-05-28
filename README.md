@@ -2,7 +2,7 @@
 
 **Location:** Baltimore, MD  
 **LinkedIn:** [Courtney Mosley](https://www.linkedin.com/in/courtney-mosley-201217a9/)
-
+**Email:** csm1492@gmail.com
 ---
 
 ## 🧑‍💻 About Me
