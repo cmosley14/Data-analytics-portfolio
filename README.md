@@ -15,7 +15,7 @@ Educator, sports fan, and health & wellness enthusiast with a passion for data a
 
 - **Data Analysis:** R, SQL, Excel, Sheets
 - **Visualization:** Tableau (Dashboards, Storytelling)
-- **Programming:** Some Python
+- **Programming:** Python
 - **Communication:** Making data approachable for all audiences
 
 ---
@@ -36,7 +36,7 @@ Educator, sports fan, and health & wellness enthusiast with a passion for data a
 ### R
 
 - **[Penguin Plots (PDF)](https://ca44bfa4d9c94514a52c039cba1c7550.app.posit.cloud/file_show?path=%2Fcloud%2Fproject%2FPenguinsPlots1.pdf)**  
-  Visualizing penguin data using R plots.
+  Visualizing penguin data using R plots with R-markdown.
 
 ### Sheets
 
